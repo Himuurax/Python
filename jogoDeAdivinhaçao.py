@@ -1,4 +1,4 @@
-secreto = 'perfume'
+secreto = 'fruta'
 digitados = []
 chances = 3
 
